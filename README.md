@@ -25,4 +25,4 @@ python main.py
 ```
 
 ## Acknowledgments
-- Parts of the methods and optimization procedure are adapted from  [notears](https://github.com/xunzheng/notears/blob/master/notears/utils.py) and [notears-convergence](https://github.com/ignavierng/notears-convergence).
+- Parts of the methods and optimization procedure are adapted from  [notears](https://github.com/xunzheng/notears) and [notears-convergence](https://github.com/ignavierng/notears-convergence).
